@@ -24,17 +24,17 @@ Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in buil
 
 Here are the programming languages I code in:
 
-- <img src = "./html.png" width = "25px">  HTML
-- <img src = "./css-3.png" width = "25px">  CSS
-- <img src = "./js.png" width = "25px">  JavaScript
-- <img src = "./react.png" width = "25px">  React.js
+- <img src = "./html.png" width = "25px"> &nbsp; HTML
+- <img src = "./css-3.png" width = "25px"> &nbsp; CSS
+- <img src = "./js.png" width = "25px"> &nbsp; JavaScript
+- <img src = "./react.png" width = "25px"> &nbsp; React.js
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Krrish105/Krrish105">
   <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
 </a>
-
+&nbsp; &nbsp;
 <a href="https://github.com/Krrish105/Krrish105">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
 </a>
@@ -43,6 +43,6 @@ Here are the programming languages I code in:
 
 Feel free to connect with me for any project, question, etc. on: 
 
-- <img src = "./gmail.png" width = "25px">  Mail
-- <img src = "./twitter.png" width = "25px">  Twitter
-- <img src = "./linkedin.png" width = "25px">  LinkedIn
+- <img src = "./gmail.png" width = "25px"> &nbsp; Mail
+- <img src = "./twitter.png" width = "25px"> &nbsp; Twitter
+- <img src = "./linkedin.png" width = "25px"> &nbsp; LinkedIn
