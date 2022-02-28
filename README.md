@@ -31,8 +31,12 @@ Here are the programming languages I code in:
 
 ## &#x1f4c8; GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
+<a href="https://github.com/Krrish105/Krrish105">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+</a>
+<a href="https://github.com/Krrish105/Krrish105">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
+</a>
 
 ## 📫 How to reach me:
 
