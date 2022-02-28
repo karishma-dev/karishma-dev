@@ -44,5 +44,5 @@ Here are the programming languages I code in:
 Feel free to connect with me for any project, question, etc. on: 
 
 - [<img src = "./gmail.png" width = "25px">&nbsp; Mail](mailto:jainkarishma76@gmail.com)
-- [img src = "./twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
+- [<img src = "./twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
 - [<img src = "./linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
