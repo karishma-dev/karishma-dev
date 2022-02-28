@@ -13,21 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Krrish105">
-  <img src="./Header.png" width="100%" height = "350px">
+  <img src="./assests/Header.png" width="100%" height = "350px">
 </a>
 
 # Hello 👋
 
-Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone. 
+Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone.  
 
-## 🌱 Skills
+Available for Freelance work, remote job or remote paid internship.
+
+## �&#60;/&#62; Skills
 
 Here are the programming languages I code in:
 
-- <img src = "./html.png" width = "25px"> &nbsp; HTML
-- <img src = "./css-3.png" width = "25px"> &nbsp; CSS
-- <img src = "./js.png" width = "25px"> &nbsp; JavaScript
-- <img src = "./react.png" width = "25px"> &nbsp; React.js
+- <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
+- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS
+  - Sass
+  - BootStrap 
+- <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
+- <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
 
 ## &#x1f4c8; GitHub Stats
 
@@ -43,6 +47,6 @@ Here are the programming languages I code in:
 
 Feel free to connect with me for any project, question, etc. on: 
 
-- [<img src = "./gmail.png" width = "25px">&nbsp; Mail](mailto:jainkarishma76@gmail.com)
-- [<img src = "./twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
-- [<img src = "./linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
+- [<img src = "./assets/gmail.png" width = "25px">&nbsp; Mail](mailto:jainkarishma76@gmail.com)
+- [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
+- [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
