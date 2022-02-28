@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Krrish105">
-  <img src="./assests/Header.png" width="100%" height = "350px">
+  <img src="./assets/Header.png" width="100%" height = "350px" style = "min-width: 300px;">
 </a>
 
 # Hello 👋
@@ -22,7 +22,7 @@ Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in buil
 
 Available for Freelance work, remote job or remote paid internship.
 
-## �&#60;/&#62; Skills
+## 🌱 Skills
 
 Here are the programming languages I code in:
 
