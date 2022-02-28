@@ -24,14 +24,14 @@ Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in buil
 
 Here are the programming languages I code in:
 
-- <img src = "./html.png"> HTML
-- <img src = "./css-3.png"> CSS
+- <img src = "./html.png" width = "16px"> HTML
+- <img src = "./css-3.png" width = "16px"> CSS
 - <img src = "./js.png"> JavaScript
 - <img src = "./react.png"> React.js
 
 ## &#x1f4c8; GitHub Stats
 
-- <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
 
 ## 📫 How to reach me:
 
