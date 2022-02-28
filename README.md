@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./Header.png" width="1300px" height = "400px">(https://github.com/Krrish105)
+<a href="https://github.com/Krrish105">
+  <img src="./Header.png" width="1300px" height = "400px">
+</a>
