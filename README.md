@@ -24,10 +24,10 @@ Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in buil
 
 Here are the programming languages I code in:
 
-- <img src = "./html.png" width = "16px"> HTML
-- <img src = "./css-3.png" width = "16px"> CSS
-- <img src = "./js.png"> JavaScript
-- <img src = "./react.png"> React.js
+- <img src = "./html.png" width = "25px"> HTML
+- <img src = "./css-3.png" width = "25px"> CSS
+- <img src = "./js.png" width = "25px"> JavaScript
+- <img src = "./react.png" width = "25px"> React.js
 
 ## &#x1f4c8; GitHub Stats
 
@@ -37,6 +37,6 @@ Here are the programming languages I code in:
 
 Feel free to connect with me for any project, question, etc. on: 
 
-- <img src = "./gmail.png"> Mail
-- <img src = "./twitter.png"> Twitter
-- <img src = "./linkedin.png"> LinkedIn
+- <img src = "./gmail.png" width = "25px"> Mail
+- <img src = "./twitter.png" width = "25px"> Twitter
+- <img src = "./linkedin.png" width = "25px"> LinkedIn
