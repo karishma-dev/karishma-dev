@@ -32,6 +32,7 @@ Here are the programming languages I code in:
 ## &#x1f4c8; GitHub Stats
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
 
 ## 📫 How to reach me:
 
