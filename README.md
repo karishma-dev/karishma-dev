@@ -38,7 +38,6 @@ Here are the programming languages I code in:
 <a href="https://github.com/Krrish105/Krrish105">
   <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
 </a>
-&nbsp;
 <a href="https://github.com/Krrish105/Krrish105">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
 </a>
