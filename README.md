@@ -18,29 +18,23 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone.  
+Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone. 
 
-Available for Freelance work, remote job or remote paid internship.
+Available for Freelance work, remote job or remote internship.
 
 ## 🌱 Skills
 
 Here are the programming languages I code in:
 
 - <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
-- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS
-  - Sass
-  - BootStrap 
+- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS (SASS/SCSS and Bootstrap)
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Krrish105/Krrish105">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
-</a>
-<a href="https://github.com/Krrish105/Krrish105">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
-</a>
+<img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
 
 ## 📫 How to reach me:
 
