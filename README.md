@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone. 
 
+Here is my [portfolio website](https://krrish105.github.io/karishmagarg/).
+
 Available for Freelance work, remote job or remote internship.
 
 ## 🌱 Skills
