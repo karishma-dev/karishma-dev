@@ -32,6 +32,7 @@ Here are the programming languages I code in:
 - <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS (SASS/SCSS and Bootstrap)
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
+- <img src = "./assets/jquery.svg" width = "25px"> &nbsp; jQuery
 
 ## &#x1f4c8; GitHub Stats
 
