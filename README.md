@@ -40,11 +40,11 @@ Here are the programming languages I code in:
 ## &#x1f4c8; GitHub Stats
 
 <div style="display: flex;">
-  <a href = "https://github.com/Krrish105">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+  <a href = "https://github.com/Krrish105" style="width: fit-content;">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark" style="width: 400px !important;">
   </a>
-  <a href = "https://github.com/Krrish105">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
+  <a href = "https://github.com/Krrish105" style="width: fit-content;">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark" style="width: 400px !important;">
   </a>
 </div>
 
