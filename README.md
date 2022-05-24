@@ -29,19 +29,24 @@ Available for Freelance work, remote job or remote internship.
 Here are the programming languages I code in:
 
 - <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
-- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS (SASS/SCSS and Bootstrap)
+- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS 
+  - Sass/Scss
+  - Bootstrap
+  - Less
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
 - <img src = "./assets/jquery.svg" width = "25px"> &nbsp; jQuery
 
 ## &#x1f4c8; GitHub Stats
 
-<a href = "https://github.com/Krrish105">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
-</a>
-<a href = "https://github.com/Krrish105">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
-</a>
+<div style="display: flex;">
+  <a href = "https://github.com/Krrish105">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Krrish105&show_icons=true&line_height=27&count_private=true&theme=dark">
+  </a>
+  <a href = "https://github.com/Krrish105">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish105&layout=compact&theme=dark">
+  </a>
+</div>
 
 ## 📫 How to reach me:
 
