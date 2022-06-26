@@ -33,6 +33,7 @@ Here are the programming languages I code in:
   - Sass/Scss
   - Bootstrap
   - Less
+  - Tailwind CSS
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
 - <img src = "./assets/jquery.svg" width = "25px"> &nbsp; jQuery
