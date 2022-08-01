@@ -18,22 +18,22 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Hi, I am Karishma Garg, a self-taught Front-End Web Developer. I believe in building websites to solve problems, help people and that the power of Web should be accessible to everyone. 
+Heyy 🙋🏻‍♀️, Thank you for visiting my profile!. Continue reading to know more about my journey✨. 
 
-Here is my [portfolio website](https://krrish105.github.io/karishmagarg/).
+Since childhood, the subject of Computer Science has always fascinated me. A few years back I realized that my passion for programming and solving problems could be transformed into a full-time career, so I started pursuing it. But at that time, I didn’t realize that there are so many things to learn in this field other than what is taught in school. 
 
-Available for Freelance work, remote job or remote internship.
+Technically, I started to learn to program when I was 10 years old (the programming language I first learned was Logo) because of the school curriculum, but at that time I didn’t know what I wanted to specifically pursue in the programming field, therefore, in Covid, when I had to opt for homeschooling due to personal issues, I stumbled upon the FreeCodeCamp Website, and since then, my actual learning started and I got immersed in learning Web Development. 
+
+Currently, I am learning Full Stack Development.
+
+I am a curious person and an avid reader. Feel free to connect with me to talk about tech, books, etc. 🤝🏻
 
 ## 🌱 Skills
 
 Here are the programming languages I code in:
 
 - <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
-- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS 
-  - Sass/Scss
-  - Bootstrap
-  - Less
-  - Tailwind CSS
+- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS, Sass/Scss, Bootstrap, Less, Tailwind CSS
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
 - <img src = "./assets/jquery.svg" width = "25px"> &nbsp; jQuery
@@ -53,6 +53,5 @@ Here are the programming languages I code in:
 
 Feel free to connect with me for any project, question, etc. on: 
 
-- [<img src = "./assets/gmail.png" width = "25px">&nbsp; Mail](mailto:jainkarishma76@gmail.com)
 - [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
 - [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
