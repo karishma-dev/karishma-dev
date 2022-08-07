@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Krrish105">
-  <img src="./assets/header.svg" width="100%" height = "auto" style = "min-width: 300px; min-height: 350px;">
+  <img src="./assets/header.png" width="100%" height = "auto" style = "min-width: 300px; min-height: 350px;">
 </a>
 
 # Hello 👋
