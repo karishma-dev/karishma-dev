@@ -32,11 +32,12 @@ I am a curious person and an avid reader. Feel free to connect with me to talk a
 
 Here are the programming languages I code in:
 
-- <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
-- <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS, Sass/Scss, Bootstrap, Less, Tailwind CSS
-- <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
-- <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
-- <img src = "./assets/jquery.svg" width = "25px"> &nbsp; jQuery
+- HTML 
+- CSS, Bootstrap, Sass/Scss, Less, Tailwind CSS 
+- JavaScript,  jQuery
+- React.js, Redux, styled components
+- Node.js, Express.js
+- MongoDB, Mongoose
 
 ## &#x1f4c8; GitHub Stats
 
