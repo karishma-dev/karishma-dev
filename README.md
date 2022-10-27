@@ -34,7 +34,7 @@ Here are the programming languages I code in:
 
 - HTML 
 - CSS, Bootstrap, Sass/Scss, Less, Tailwind CSS 
-- JavaScript,  jQuery
+- JavaScript, jQuery, TypeScript
 - React.js, Redux, styled components
 - Node.js, Express.js
 - MongoDB, Mongoose
