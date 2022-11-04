@@ -26,6 +26,8 @@ Technically, I started to learn to program when I was 10 years old (the programm
 
 Currently, I am learning Full Stack Development.
 
+Looking for freelance work/remote job or internship.
+
 I am a curious person and an avid reader. Feel free to connect with me to talk about tech, books, etc. 🤝🏻
 
 ## 🌱 Skills
