@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Heyy 🙋🏻‍♀️, Thank you for visiting my profile!. Continue reading to know more about my journey✨. 
+Heyy 🙋🏻‍♀️, Thank you for visiting my profile! Continue reading to know more about my journey✨. 
 
 Since childhood, the subject of Computer Science has always fascinated me. A few years back I realized that my passion for programming and solving problems could be transformed into a full-time career, so I started pursuing it. But at that time, I didn’t realize that there are so many things to learn in this field other than what is taught in school. 
 
@@ -37,7 +37,7 @@ Here are the programming languages I code in:
 - HTML 
 - CSS, Bootstrap, Sass/Scss, Less, Tailwind CSS 
 - JavaScript, jQuery, TypeScript
-- React.js, Redux, styled components
+- Next.js, React.js, Redux, styled-components
 - Node.js, Express.js
 - MongoDB, Mongoose
 
