@@ -18,28 +18,31 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Heyy 🙋🏻‍♀️, Thank you for visiting my profile! Continue reading to know more about my journey✨. 
+Greetings! Thank you for checking out my profile. I have always been fascinated by Computer Science since I was a child. A few years ago, I realized that my passion for programming and problem-solving could become a fulfilling career. However, I soon learned that there is much more to learn in this field beyond what is taught in school.
 
-Since childhood, the subject of Computer Science has always fascinated me. A few years back I realized that my passion for programming and solving problems could be transformed into a full-time career, so I started pursuing it. But at that time, I didn’t realize that there are so many things to learn in this field other than what is taught in school. 
+I started learning to program when I was ten years old, thanks to the school curriculum that introduced me to the Logo programming language. But at that time, I had not yet decided what specific area of programming I wanted to pursue. Later, during the Covid pandemic, I stumbled upon the FreeCodeCamp website while homeschooling due to personal issues, and that is when my actual learning journey began. I got deeply involved in learning Web Development.
 
-Technically, I started to learn to program when I was 10 years old (the programming language I first learned was Logo) because of the school curriculum, but at that time I didn’t know what I wanted to specifically pursue in the programming field, therefore, in Covid, when I had to opt for homeschooling due to personal issues, I stumbled upon the FreeCodeCamp Website, and since then, my actual learning started and I got immersed in learning Web Development. 
-
-Currently, I am learning Full Stack Development.
-
-Looking for freelance work/remote job or internship.
-
-I am a curious person and an avid reader. Feel free to connect with me to talk about tech, books, etc. 🤝🏻
+I am a naturally curious person and enjoy reading books on various topics. Feel free to connect with me if you want to chat about tech, books or anything. 
 
 ## 🌱 Skills
 
 Here are the programming languages I code in:
 
-- HTML 
+- HTML
 - CSS, Bootstrap, Sass/Scss, Less, Tailwind CSS 
+- styled-components
 - JavaScript, jQuery, TypeScript
-- Next.js, React.js, Redux, styled-components
+- Next.js, React.js 
+- Redux
 - Node.js, Express.js
-- MongoDB, Mongoose
+- MongoDB, Mongoose 
+- Jakarta Server Pages (JSP)
+
+Additional Skills:
+- Web Accessibility Guidelines
+- Search Engine Optimization (SEO)
+- Google Analytics, Google Tag Manager
+- UI/UX Design, Figma, Canvas
 
 ## &#x1f4c8; GitHub Stats
 
