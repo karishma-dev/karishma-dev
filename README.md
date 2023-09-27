@@ -37,12 +37,14 @@ Here are the programming languages I code in:
 - Node.js, Express.js
 - MongoDB, Mongoose 
 - Jakarta Server Pages (JSP)
+- Git, Github, Bitbucket
 
 Additional Skills:
 - Web Accessibility Guidelines
 - Search Engine Optimization (SEO)
 - Google Analytics, Google Tag Manager
 - UI/UX Design, Figma, Canvas
+- Emarsys
 
 ## &#x1f4c8; GitHub Stats
 
