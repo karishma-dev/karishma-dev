@@ -63,3 +63,5 @@ Feel free to connect with me for any project, question, etc. on:
 
 - [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
 - [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karishma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="karishma-dev" /></p>
