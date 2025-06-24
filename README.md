@@ -18,33 +18,55 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Greetings! Thank you for checking out my profile. I have always been fascinated by Computer Science since I was a child. A few years ago, I realized that my passion for programming and problem-solving could become a fulfilling career. However, I soon learned that there is much more to learn in this field beyond what is taught in school.
+Greetings!
 
-I started learning to program when I was ten years old, thanks to the school curriculum that introduced me to the Logo programming language. But at that time, I had not yet decided what specific area of programming I wanted to pursue. Later, during the Covid pandemic, I stumbled upon the FreeCodeCamp website while homeschooling due to personal issues, and that is when my actual learning journey began. I got deeply involved in learning Web Development.
+I have always been fascinated by Computer Science since I was a child. A few years ago, I realised that my passion for programming and problem-solving could become a fulfilling career. However, I soon learned that there is much more to learn in this field beyond what is taught in school. I started learning to program when I was ten years old, thanks to the school curriculum that introduced me to the Logo programming language. But at that time, I had not yet decided what specific area of programming I wanted to pursue. 
 
-I am a naturally curious person and enjoy reading books on various topics. Feel free to connect with me if you want to chat about tech, books or anything. 
+Later, during the COVID pandemic, I stumbled upon the FreeCodeCamp website while homeschooling due to personal issues, and that is when my actual learning journey began. I got deeply involved in learning Web Development. What started as frontend curiosity with React and JavaScript has grown into a full-stack experience over the past 3 years. I've worked across the entire development spectrum - from building responsive UIs and React Native mobile apps to developing backend APIs with Node.js and managing cloud deployments.
+
+Some highlights from my journey: I've led the development of e-commerce platforms and CRM systems, built mobile apps from scratch (including one MVP in just 2 months!), and even created offline-capable applications. Currently working part-time at CreativeScript, managing multiple projects, and I'm open to remote freelance work and full-time opportunities, which keeps me on my toes and constantly learning.
+
+I am a naturally curious person and enjoy reading books on various topics. Feel free to connect with me if you want to chat about tech, books or anything.
 
 ## 🌱 Skills
 
-Here are the programming languages I code in:
+Here's my Tech Stack:
 
-- HTML
-- CSS, Bootstrap, Sass/Scss, Less, Tailwind CSS 
-- styled-components
-- JavaScript, jQuery, TypeScript
-- Next.js, React.js 
-- Redux
-- Node.js, Express.js
-- MongoDB, Mongoose 
-- Jakarta Server Pages (JSP)
-- Git, Github, Bitbucket
+🌐 Frontend Development:
+- HTML | CSS | JavaScript | TypeScript
+- Next.js | React.js | Redux | styled-components | Bootstrap | Tailwind CSS
+- JSP
 
-Additional Skills:
-- Web Accessibility Guidelines
-- Search Engine Optimization (SEO)
-- Google Analytics, Google Tag Manager
-- UI/UX Design, Figma, Canvas
-- Emarsys
+📱 Mobile Development:
+- React Native
+
+🛠️ Backend Development:
+- Node.js | Express.js | Hono
+- MongoDB | Mongoose | PostgreSQL | Prisma
+- Redis | REST APIs | GraphQL
+- Java
+
+🏗️ System Design & Architecture:
+- Microservices | Load balancing | Distributed systems
+
+☁️ Cloud & DevOps:
+- AWS | Docker | Kubernetes | CI/CD pipelines
+
+🧪 Testing:
+- Jest | Unit testing | Integration testing
+
+🖥️ Tools & Technologies:
+- Git | GitHub | Bitbucket | Jira | Slack
+
+🎨 UI/UX Design:
+- Figma | Canvas
+- WebFlow | WordPress | Framer
+
+📊 Analytics & SEO:
+- Google Analytics | Google Tag Manager
+- SEO Best Practices | Web Accessibility Guidelines
+
+Soft Skills: Problem-solving, Fast learning, Communication, Time management, Mentoring, Client relationship management, Attention to detail, Independent work, Team collaboration, Agile
 
 ## &#x1f4c8; GitHub Stats
 
