@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Krrish105">
+<!--<a href="https://github.com/Krrish105">
   <img src="./assets/header.png" width="100%" height = "auto" style = "min-width: 300px; min-height: 350px;">
-</a>
+</a>-->
 
 # Hello 👋
 
