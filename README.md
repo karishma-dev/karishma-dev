@@ -81,7 +81,7 @@ Soft Skills: Problem-solving, Fast learning, Communication, Time management, Men
 
 ## 📫 How to reach me:
 
-Feel free to connect with me for any project, question, etc. on: 
+Feel free to connect with me for any project, question, etc., on: 
 
-- [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
+- [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma_dev)
 - [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
