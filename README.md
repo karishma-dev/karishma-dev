@@ -24,7 +24,7 @@ I have always been fascinated by Computer Science since I was a child. A few yea
 
 Later, during the COVID pandemic, I stumbled upon the FreeCodeCamp website while homeschooling due to personal issues, and that is when my actual learning journey began. I got deeply involved in learning Web Development. What started as frontend curiosity with React and JavaScript has grown into a full-stack experience over the past 3 years. I've worked across the entire development spectrum - from building responsive UIs and React Native mobile apps to developing backend APIs with Node.js and managing cloud deployments.
 
-Some highlights from my journey: I've led the development of e-commerce platforms and CRM systems, built mobile apps from scratch (including one MVP in just 2 months!), and even created offline-capable applications. Currently working part-time at CreativeScript, managing multiple projects, and I'm open to remote freelance work and full-time opportunities, which keeps me on my toes and constantly learning.
+Some highlights from my journey: I've led the development of e-commerce platforms and CRM systems, built mobile apps from scratch, and even created offline-capable applications. Currently working part-time at CreativeScript, managing multiple projects, and I'm open to remote freelance work and full-time opportunities, which keeps me on my toes and constantly learning.
 
 I am a naturally curious person and enjoy reading books on various topics. Feel free to connect with me if you want to chat about tech, books or anything.
 
