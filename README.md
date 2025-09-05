@@ -18,19 +18,27 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Greetings!
+Hi, I’m Karishma.
 
-I have always been fascinated by Computer Science since I was a child. A few years ago, I realised that my passion for programming and problem-solving could become a fulfilling career. However, I soon learned that there is much more to learn in this field beyond what is taught in school. I started learning to program when I was ten years old, thanks to the school curriculum that introduced me to the Logo programming language. But at that time, I had not yet decided what specific area of programming I wanted to pursue. 
+I started coding young, and over the last few years, I’ve built e-commerce platforms, CRM systems, mobile apps, and backends. I don’t limit myself to one role; if a project needs frontend, backend, mobile, testing, or even SEO, I’ll figure it out and deliver.
 
-Later, during the COVID pandemic, I stumbled upon the FreeCodeCamp website while homeschooling due to personal issues, and that is when my actual learning journey began. I got deeply involved in learning Web Development. What started as frontend curiosity with React and JavaScript has grown into a full-stack experience over the past 3 years. I've worked across the entire development spectrum - from building responsive UIs and React Native mobile apps to developing backend APIs with Node.js and managing cloud deployments.
+Where I’m strongest
+- Frontend: React, Next.js, TypeScript, Tailwind
+- Mobile: React Native
+- Backend: Node.js, Express, Prisma, PostgreSQL, MongoDB, Redis
+- Extra hats: QA testing, UI/UX flows, SEO/Analytics, project coordination
 
-Some highlights from my journey: I've led the development of e-commerce platforms and CRM systems, built mobile apps from scratch, and even created offline-capable applications. Currently working part-time at CreativeScript, managing multiple projects, and I'm open to remote freelance work and full-time opportunities, which keeps me on my toes and constantly learning.
+Some wins
+- Built and shipped a mobile MVP in 2 months with real users.
+- Managed and scaled 3 e-commerce sites solo (yes, in JSP).
+- Delivered projects reliably while balancing work, study, and side jobs.
 
-I am a naturally curious person and enjoy reading books on various topics. Feel free to connect with me if you want to chat about tech, books or anything.
+How I work
+I pick up new stacks quickly, stay consistent, and don’t overcomplicate things. If you give me a project, I’ll make sure it moves forward.
 
 ## 🌱 Skills
 
-Here's my Tech Stack:
+Here's my detailed Tech Stack:
 
 🌐 Frontend Development:
 - HTML | CSS | JavaScript | TypeScript
