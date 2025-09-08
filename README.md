@@ -22,12 +22,6 @@ Hi, I’m Karishma.
 
 I started coding young, and over the last few years, I’ve built e-commerce platforms, CRM systems, mobile apps, and backends. I don’t limit myself to one role; if a project needs frontend, backend, mobile, testing, or even SEO, I’ll figure it out and deliver.
 
-Where I’m strongest
-- Frontend: React, Next.js, TypeScript, Tailwind
-- Mobile: React Native
-- Backend: Node.js, Express, Prisma, PostgreSQL, MongoDB, Redis
-- Extra hats: QA testing, UI/UX flows, SEO/Analytics, project coordination
-
 Some wins
 - Built and shipped a mobile MVP in 2 months with real users.
 - Managed and scaled 3 e-commerce sites solo (yes, in JSP).
