@@ -68,8 +68,6 @@ Here's my detailed Tech Stack:
 - Google Analytics | Google Tag Manager
 - SEO Best Practices | Web Accessibility Guidelines
 
-Soft Skills: Problem-solving, Fast learning, Communication, Time management, Mentoring, Client relationship management, Attention to detail, Independent work, Team collaboration, Agile
-
 ## &#x1f4c8; GitHub Stats
 
 <div style="display: flex;">
