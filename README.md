@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Hi, I’m Karishma.
+Since I started coding at 17, my goal has been simple: to become the developer a project needs. I began my career as a high school student, tasked with developing an e-commerce website. With over 3 years of professional experience, I've consistently evolved into a reliable, full-stack professional. Over an extended period, I became the go-to person for a major e-commerce client, and my clients know I'm someone they can count on.
 
-I started coding young, and over the last few years, I’ve built e-commerce platforms, CRM systems, mobile apps, and backends. I don’t limit myself to one role; if a project needs frontend, backend, mobile, testing, or even SEO, I’ll figure it out and deliver.
+My work isn't just about writing code; it's about solving real-world problems.
 
-Some wins
-- Built and shipped a mobile MVP in 2 months with real users.
-- Managed and scaled 3 e-commerce sites solo (yes, in JSP).
-- Delivered projects reliably while balancing work, study, and side jobs.
+Key Accomplishments
+- Sole developer on multiple projects, including a marketplace e-commerce website and a CRM system.
+- Removed 90% of technical debt in a CRM and also designed its UI/UX, ensuring it could function offline for sales reps.
+- Built and shipped an app MVP in just one month, seamlessly transitioning from web to mobile development.
+- Developed and deployed robust backend services, including scalable REST APIs, and automated CI/CD pipelines using Docker.
 
-How I work
-I pick up new stacks quickly, stay consistent, and don’t overcomplicate things. If you give me a project, I’ll make sure it moves forward.
+As a computer science student at BITS Pilani, I'm constantly learning and expanding my skills. If you need a reliable developer who can wear many hats, deliver high-quality work, and isn't afraid of a challenge, let's connect.
 
 ## 🌱 Skills
 
@@ -45,7 +45,8 @@ Here's my detailed Tech Stack:
 🛠️ Backend Development:
 - Node.js | Express.js | Hono
 - MongoDB | Mongoose | PostgreSQL | Prisma
-- Redis | REST APIs | GraphQL
+- Redis | REST APIs | GraphQL | webRTC | gRPC
+- RabbitMQ | Kafka
 - Java
 
 🏗️ System Design & Architecture:
