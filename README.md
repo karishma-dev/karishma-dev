@@ -25,7 +25,6 @@ My work isn't just about writing code; it's about solving real-world problems.
 Key Accomplishments
 - Sole developer on multiple projects, including a marketplace e-commerce website and a CRM system.
 - Removed 90% of technical debt in a CRM and also designed its UI/UX, ensuring it could function offline for sales reps.
-- Built and shipped an app MVP in just one month, seamlessly transitioning from web to mobile development.
 - Developed and deployed robust backend services, including scalable REST APIs, and automated CI/CD pipelines using Docker.
 
 As a computer science student at BITS Pilani, I'm constantly learning and expanding my skills. If you need a reliable developer who can wear many hats, deliver high-quality work, and isn't afraid of a challenge, let's connect.
