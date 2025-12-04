@@ -83,5 +83,5 @@ Here's my detailed Tech Stack:
 
 Feel free to connect with me for any project, question, etc., on: 
 
-- [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma_dev)
+- [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
 - [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
