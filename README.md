@@ -42,7 +42,7 @@ Here's my detailed Tech Stack:
 - React Native
 
 🛠️ Backend Development:
-- Node.js | Express.js | Hono
+- Node.js | Express.js | Hono | Python
 - MongoDB | Mongoose | PostgreSQL | Prisma
 - Redis | REST APIs | GraphQL | webRTC | gRPC
 - RabbitMQ | Kafka
