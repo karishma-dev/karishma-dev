@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Since I started coding at 17, my goal has been simple: to become the developer a project needs. I began my career as a high school student, tasked with developing an e-commerce website. With over 3 years of professional experience, I've consistently evolved into a reliable, full-stack professional. Over an extended period, I became the go-to person for a major e-commerce client, and my clients know I'm someone they can count on.
+Since I started coding at 17, my goal has been simple: to become the developer a project needs. I began my career as a high school student, tasked with developing an e-commerce website. With 4 years of professional experience, I've consistently evolved into a reliable, full-stack professional. Over an extended period, I became the go-to person for a major e-commerce client, and my clients know I'm someone they can count on.
 
 My work isn't just about writing code; it's about solving real-world problems.
 
