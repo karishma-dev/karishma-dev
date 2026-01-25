@@ -62,7 +62,7 @@ Here's my detailed Tech Stack:
 
 🎨 UI/UX Design:
 - Figma | Canvas
-- WebFlow | WordPress | Framer
+- WebFlow | Framer
 
 📊 Analytics & SEO:
 - Google Analytics | Google Tag Manager
