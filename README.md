@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-Since I started coding at 17, my goal has been simple: to become the developer a project needs. I began my career as a high school student, tasked with developing an e-commerce website. With 4 years of professional experience, I've consistently evolved into a reliable, full-stack professional. Over an extended period, I became the go-to person for a major e-commerce client, and my clients know I'm someone they can count on.
+I’m a Product Engineer working across web, mobile, and backend systems.
 
-My work isn't just about writing code; it's about solving real-world problems.
+Over the past few years, I’ve owned and maintained production e-commerce platforms, CRM systems, and mobile applications - handling everything from frontend architecture to backend services and release pipelines.
 
-Key Accomplishments
-- Sole developer on multiple projects, including a marketplace e-commerce website and a CRM system.
-- Removed 90% of technical debt in a CRM and also designed its UI/UX, ensuring it could function offline for sales reps.
-- Developed and deployed robust backend services, including scalable REST APIs, and automated CI/CD pipelines using Docker.
+I enjoy building structured systems, thinking through product decisions carefully, and making sure what gets shipped remains stable as it grows.
 
-As a computer science student at BITS Pilani, I'm constantly learning and expanding my skills. If you need a reliable developer who can wear many hats, deliver high-quality work, and isn't afraid of a challenge, let's connect.
+My work tends to involve improving foundations - architecture, UX clarity, performance, and maintainability - so teams can build confidently on top of it.
+
+Currently open to freelance and contract opportunities with product teams and startups.
 
 ## 🌱 Skills
 
