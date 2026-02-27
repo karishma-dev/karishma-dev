@@ -32,6 +32,14 @@ Currently open to freelance and contract opportunities with product teams and st
 
 Here's my detailed Tech Stack:
 
+- Frontend Development: HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Redux, styled-components, Bootstrap, Tailwind CSS, and JSP.
+- Mobile Development: React Native.
+- Backend Development: Node.js, Express.js, Hono, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, Python
+- Tools & Technologies: Git, GitHub, Bitbucket, Docker, and AWS.
+- UI/UX Design: Figma, Canvas, WebFlow, WordPress, and Framer.
+- Analytics & SEO: Google Analytics, Google Tag Manager, SEO Best Practices, and Web Accessibility Guidelines.
+
+<!--
 🌐 Frontend Development:
 - HTML | CSS | JavaScript | TypeScript
 - Next.js | React.js | Redux | styled-components | Bootstrap | Tailwind CSS
@@ -66,6 +74,7 @@ Here's my detailed Tech Stack:
 📊 Analytics & SEO:
 - Google Analytics | Google Tag Manager
 - SEO Best Practices | Web Accessibility Guidelines
+-->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -84,3 +93,4 @@ Feel free to connect with me for any project, question, etc., on:
 
 - [<img src = "./assets/twitter.png" width = "25px"> &nbsp; Twitter](https://twitter.com/_karishma10)
 - [<img src = "./assets/linkedin.png" width = "25px"> &nbsp; LinkedIn](https://www.linkedin.com/in/karishma-garg-)
+- [<img src = "./assets/mail.png" width = "25px"> &nbsp; Gmail](mailto:karishmagarg.dev@gmail.com?subject=Inquiry&body=Hey)
