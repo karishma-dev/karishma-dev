@@ -32,7 +32,7 @@ Currently open to freelance and contract opportunities with product teams and st
 
 Here's my detailed Tech Stack:
 
-- Frontend Development: HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Redux, styled-components, Bootstrap, Tailwind CSS, and JSP.
+- Frontend Development: HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Redux, Tailwind CSS, and JSP.
 - Mobile Development: React Native.
 - Backend Development: Node.js, Express.js, Hono, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, Python
 - Tools & Technologies: Git, GitHub, Bitbucket, Docker, and AWS.
