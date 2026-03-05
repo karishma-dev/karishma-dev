@@ -76,7 +76,7 @@ Here's my detailed Tech Stack:
 - SEO Best Practices | Web Accessibility Guidelines
 -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <div style="display: flex;">
   <a href = "https://github.com/karishma-dev" style="width: fit-content;">
@@ -85,7 +85,7 @@ Here's my detailed Tech Stack:
   <a href = "https://github.com/karishma-dev" style="width: fit-content;">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karishma-dev&layout=compact&theme=dark" style="width: 400px !important;">
   </a>
-</div>
+</div> -->
 
 ## 📫 How to reach me:
 
