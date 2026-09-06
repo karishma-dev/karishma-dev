@@ -18,15 +18,7 @@ Here are some ideas to get you started:
 
 # Hello 👋
 
-I’m a Product Engineer working across web, mobile, and backend systems.
-
-Over the past few years, I’ve owned and maintained production e-commerce platforms, CRM systems, and mobile applications - handling everything from frontend architecture to backend services and release pipelines.
-
-I enjoy building structured systems, thinking through product decisions carefully, and making sure what gets shipped remains stable as it grows.
-
-My work tends to involve improving foundations - architecture, UX clarity, performance, and maintainability - so teams can build confidently on top of it.
-
-Currently open to freelance and contract opportunities with product teams and startups.
+A senior frontend developer working on ecommerce storefronts.
 
 ## 🌱 Skills
 
@@ -37,7 +29,7 @@ Here's my detailed Tech Stack:
 - Backend Development: Node.js, Express.js, Hono, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, Python
 - Tools & Technologies: Git, GitHub, Bitbucket, Docker, and AWS.
 - UI/UX Design: Figma, Canvas, WebFlow, WordPress, and Framer.
-- Analytics & SEO: Google Analytics, Google Tag Manager, SEO Best Practices, and Web Accessibility Guidelines.
+- Analytics & SEO: Google Analytics, Google Tag Manager, Technical SEO.
 
 <!--
 🌐 Frontend Development:
