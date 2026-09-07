@@ -12,15 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<a href="https://github.com/Krrish105">
+<!--
+<a href="https://github.com/Krrish105">
   <img src="./assets/header.png" width="100%" height = "auto" style = "min-width: 300px; min-height: 350px;">
-</a>-->
+</a>
+-->
 
-# Hello 👋
+# Hello
 
 A senior frontend developer working on ecommerce storefronts.
 
-## 🌱 Skills
+<!--
+## Skills
 
 Here's my detailed Tech Stack:
 
@@ -30,6 +33,7 @@ Here's my detailed Tech Stack:
 - Tools & Technologies: Git, GitHub, Bitbucket, Docker, and AWS.
 - UI/UX Design: Figma, Canvas, WebFlow, WordPress, and Framer.
 - Analytics & SEO: Google Analytics, Google Tag Manager, Technical SEO.
+-->
 
 <!--
 🌐 Frontend Development:
@@ -79,7 +83,7 @@ Here's my detailed Tech Stack:
   </a>
 </div> -->
 
-## 📫 How to reach me:
+## How to reach me:
 
 Feel free to connect with me for any project, question, etc., on: 
 
